@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "waap-demo-323809",
+  "private_key_id": "cfc06ad87e51ec5799772a6893918b82ea9cbff7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnQtHl8WDz/UOY\nTeglZknHIdZPvvD2m5WtU02JsK0LbrhsHneTCzCDQsWp8y9lN2jFEos3Kgsf5HGt\n0HpmFYWZmelREsUGbG4ykRxNnl8vRXkkZ/Sm7f50GF55kH1gwcjmNdv4Z3R1rP7+\nZg4tI68mfWtzfmNXSYaGWboM6zovRNViy1L8up9ytP45zDL9jz8vyGCU3vJeV2OC\nb7bsTiZrY1G4rISfqGTZrO9HqVkMfmLAFZ/gtJW0HPiXTSgpwnsgcnuV6AZvSR5i\naDUkJL+BA2O/mcElV3jPWaEtQzvks1aOPXrAZQJemzgpag+GaUuahllPOdNcpXrH\nmC9csnbHAgMBAAECggEADnt0JidEwEuFD0prl9Vn/PR6lHQRdCDbkGLem1XvXcaL\n9Fyc+N/mpu7go4r5ZxepnCqzYCblSLEkgKrE9lLVuwt/DrSD178KuZkj7LqSPksT\nJqpTniKMPiwf/gGbQYX16azvK251wHympYtbnd/xmfERHTJr0pJ8seRR/i1d39q/\nYIBYzT6GilS43TTyYQzOvge13hiYmJCpaZAIgl/tTEVTBBWwYdEpi+gOJ5XD7pFc\no4WdVJnKrLmoJioaLw0fbf+ETrxqfbzjtaM1GX8YHMdO/cuQzao5wYeNfBdfMPp/\nfrYuo1xG3R3HMCrX5P4vrLgZZFgqCIx+s8RDcfcX+QKBgQDl969MENYb/7gD3Vb9\nvk1K6nlNePhaWEpvl4h+k8/tEpJNyvK0NquwVWiaV2rl+KwqgA26xLPjPesSi5Nu\nVsgn+/oQbiXSzvhhnvQx4vbiPCP1/tZAOhXy6bbu5zzdj5jjpz+9GyvpvfXOiDlE\n1KIyCmvhGCleVRdLTU8toycr7wKBgQC6MfCXThdd5e1WTpI8LBkoaEwIuArVmNzi\nflDlivqHNHi2z2Zght+LhwOocDa2MTMjWFA4MynOYvYbBJBF2fTpdQvti9WLnUaL\nP+GybGmLnkUajtHeNFyvb4NL26b8CRmdjFlUR4wkIu3lsibuejGJ/dTDZnoHmHuz\nLS/NCzLqqQKBgQCbn3fTY/lgzTZ79wdtg6DOt8oK8Xgvu1v0FHncHq8w4cZ8OoDw\nD6c0FzhIaiv/IL9xq2KfJ4oMl9RCoo3Mt5GP7WcWQ1P5SvKvLWBXeh5UjxpO2Huo\nzyYXUq3nEjkQPqLaPE5X7NFUxqZXc7w9ph90+bRziWRFYBP5c4HHgod5pQKBgEtP\nn8zTXUgxlAnwxd1oyNQ7O2XbayZyKgXCqd3ulN7TLnBi+znX09uPxL8AhGC1DcYi\nFnBk4WgFRx4uflyCiDlVinmOsdVCzCHOuO9+QkKixbi0Q9bovwSGykiIk8YluCKt\nfgRE3D5Rkn/xyyVyb08tSD2w2XLxDjeu80KwYOvhAoGBAJawvkv+PMcfA2KfH6bS\ncmBIRvC7gxCAoVnhwPYxhlAL8tqEdP1sSf/KEN5xrcJK4GMqX0iI+tnVYdJ/9NM1\nTWsMXgz3XdPlGPtbaiK3bGjy7hyg2IO9ma0WFV0J43BM8IEkqyz8rVzqsRapRXvN\nfb0QEbXioCMUO+eHBWozgdv8\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-github-scan@waap-demo-323809.iam.gserviceaccount.com",
+  "client_id": "116720518810557550293",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-github-scan%40waap-demo-323809.iam.gserviceaccount.com"
+}
